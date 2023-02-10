@@ -2,7 +2,6 @@
 <h2 align="center">📚 Intereseted in 📚</h2>
 <p align="center"> 🙄  <b>Recommender System</b>  </p>
 <p align="center"> 🤖  <b>Graph Neural Network</b> </p>
-<br>
 
 <!--
 **sangwu99/sangwu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
